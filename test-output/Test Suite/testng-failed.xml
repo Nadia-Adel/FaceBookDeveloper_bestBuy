@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test thread-count="5" name="Initialize(failed)">
+    <classes>
+      <class name="tests.loginTest">
+        <methods>
+          <include name="moveToSignInPage"/>
+          <include name="stopDriver"/>
+          <include name="webDriver"/>
+          <include name="moveToRegisterationPage"/>
+          <include name="fillRegisterationForm"/>
+        </methods>
+      </class> <!-- tests.loginTest -->
+    </classes>
+  </test> <!-- Initialize(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

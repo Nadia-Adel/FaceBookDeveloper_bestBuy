@@ -1,0 +1,24 @@
+{
+
+"First_User": {
+		"username": "mohy",
+        "lastname": "mohamed",
+        "phoneORemail": "qwert@gmail.com",
+		"password": "instabug21",
+        "day": "5",
+        "month": "5",
+        "year": "2000",
+        "gender": "female"
+		},
+
+"Second_User": {
+        "username": "amal",
+        "lastname": "asm",
+        "phoneORemail": "qwehydrt@gmail.com",
+        "password": "instabug22",
+        "day": "8",
+        "month": "2",
+        "year": "2010",
+        "gender": "female"
+        }
+}

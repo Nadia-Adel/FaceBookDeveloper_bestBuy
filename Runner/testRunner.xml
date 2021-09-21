@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" configfailurepolicy="skip">
+
+    <test name="registerationTest">
+		<classes>
+			<class name="tests.registerationTest" />
+			<class name="tests.loginTest" />
+			<class name="restAssured.tests.Categories_With_TV_In_Name" />
+			<class name="restAssured.tests.Create_Product" />
+			<class name="restAssured.tests.highest_Priced_Products" />
+			<class name="restAssured.tests.stores_Sell_Apple_products" />
+		</classes>
+	</test>
+</suite> 
